@@ -1,0 +1,31 @@
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\bin\Debug\net7.0-windows\ASM 2 DDD.exe
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\bin\Debug\net7.0-windows\ASM 2 DDD.deps.json
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\bin\Debug\net7.0-windows\ASM 2 DDD.runtimeconfig.json
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\bin\Debug\net7.0-windows\ASM 2 DDD.dll
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\bin\Debug\net7.0-windows\ASM 2 DDD.pdb
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM 2 DDD.csproj.AssemblyReference.cache
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM_2_DDD.AdminForm.resources
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM_2_DDD.Login.resources
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM_2_DDD.UserForm.resources
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM 2 DDD.csproj.GenerateResource.cache
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM 2 DDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM 2 DDD.AssemblyInfoInputs.cache
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM 2 DDD.AssemblyInfo.cs
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM 2 DDD.csproj.CoreCompileInputs.cache
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM 2 DDD.csproj.CopyComplete
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM 2 DDD.dll
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\refint\ASM 2 DDD.dll
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM 2 DDD.pdb
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM 2 DDD.genruntimeconfig.cache
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ref\ASM 2 DDD.dll
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM_2_DDD.HomeAdmin.resources
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM_2_DDD.AdminAttend.resources
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM_2_DDD.Teacher.resources
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM_2_DDD.ClassForm.resources
+C:\Users\ducan\source\repos\ASM 2 DDD\ASM 2 DDD\obj\Debug\net7.0-windows\ASM_2_DDD.CourseForm.resources
